@@ -1,0 +1,4 @@
+I used two buildpacks to deploy this project on Heroku:
+
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git 
+https://github.com/xrisk/heroku-opus.git
